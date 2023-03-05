@@ -1,0 +1,2 @@
+HAL/BUTTON/BUTTON_test.o HAL/BUTTON/BUTTON_test.o:  \
+ ../HAL/BUTTON/BUTTON_test.c

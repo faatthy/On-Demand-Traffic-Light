@@ -1,0 +1,1 @@
+MCAL/EXTI/EXTI_test.o MCAL/EXTI/EXTI_test.o: ../MCAL/EXTI/EXTI_test.c
