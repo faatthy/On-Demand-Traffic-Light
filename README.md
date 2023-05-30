@@ -1,7 +1,7 @@
 # On-Demand-Traffic-Light
 embedded system project traffic light based on interrupt
 # system description 
-. As a pedestrian when I will make a short press on the crosswalk button while the cars 
+. As a pedestrian when I will make a short press on the crosswalk button while the cars  
 green light is on and pedestrian red light is off, I will wait for the yellow lights to blink 
 for five seconds then the cars red light is on and pedestrian green light is on for five 
 seconds, so that I can cross the street
