@@ -1,5 +1,6 @@
 # On-Demand-Traffic-Light
-embedded system project traffic light based on interrupt
+embedded system project traffic light based on interrupt  
+![294393256_1569547510169004_7811773259243147269_n](https://github.com/faatthy/On-Demand-Traffic-Light/assets/110846097/3fbfd871-de58-42f6-8285-fe6945aab44c)
 # system description 
 . As a pedestrian when I will make a short press on the crosswalk button while the cars 
 green light is on and pedestrian red light is off, I will wait for the yellow lights to blink 
