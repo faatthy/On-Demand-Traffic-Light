@@ -17,4 +17,4 @@ done. [as the interrupt should detect the rising on the volt only]
 . As a pedestrian when I made a double press on the crosswalk button, I expect that the first 
 press will do the action and nothing to be done after the second press  
 
-# simulation
+![Screenshot 2022-10-11 202422](https://github.com/faatthy/On-Demand-Traffic-Light/assets/110846097/6e5003a7-4bf1-44c2-89be-5d29e9c08872)
